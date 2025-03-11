@@ -1,0 +1,120 @@
+Fabricante,Modelo,Clave,LCRi
+Bombardier Aero.,CRJ 100,3B,1470
+Bombardier Aero.,CRJ 100ER,3B,1720
+Bombardier Aero.,CRJ 200,3B,1440
+Bombardier Aero.,CRJ 200ER,3B,1700
+Dassault Aviation,Falcon 20,3B,1463
+Dassault Aviation,Falcon 200,3B,1700
+Dassault Aviation,F50/F50EX,3B,1586
+Dassault Aviation,Falcon 900,3B,1504
+Dassault Aviation,Falcon 900EX,3B,1590
+Dassault Aviation,F2000,3B,1658
+Embraer,EMB-135 LR,3B,1745
+Fokker,F28-1000,3B,1646
+Fokker,F28-2000,3B,1646
+I.A.I.,SPX,3B,1644
+I.A.I.,Galaxy,3B,1798
+Gulfstream Aero.,G IV-SP,3B,1661
+Nord,262,3B,1260
+Antonov,AN24,3C,1600
+Boeing,B717-200,3C,1670
+Boeing,B737-600,3C,1690
+Boeing,B737-700,3C,1598
+Convair,240,3C,1301
+Convair,440,3C,1564
+Convair,580,3C,1341
+Convair,600,3C,1378
+Convair,640,3C,1570
+Douglas,DC3,3C,1204
+Douglas,DC4,3C,1542
+Douglas,DC6A/6B,3C,1375
+Douglas,DC9-20,3C,1551
+Embraer,EMB-120 ER,3C,1481
+Fokker,F27-500,3C,1670
+Fokker,F27-600,3C,1670
+Fokker,F28-3000,3C,1640
+Fokker,F28-4000,3C,1640
+Fokker,F28-6000,3C,1400
+McDonnell Douglas,F50,3C,1355
+McDonnell Douglas,MD90,3C,1798
+SAAB,340A,3C,1220
+SAAB,340B,3C,1220
+SAAB,SAAB 2000,3C,1340
+BAe,ATP,3D,1540
+DeHavilland Canada,DHC5D,3D,1471
+Airbus,A300 B2,3D,1676
+Bombardier Aero.,CRJ 100LR,4B,1880
+Bombardier Aero.,CRJ 200LR,4B,1850
+Dassault Aviation,Falcon 20-5 (Retrofit),4B,1859
+Embraer,EMB-145 LR,4B,2269
+Airbus,A320-200,4C,2480
+BAC,1-11-200,4C,1884
+BAC,1-11-300,4C,2484
+BAC,1-11-400,4C,2420
+BAC,1-11-475,4C,2286
+BAC,1-11-500,4C,2408
+Boeing,B727-100,4C,2502
+Boeing,B727-200,4C,3176
+Boeing,B737-100,4C,2499
+Boeing,B737-200,4C,2295
+Boeing,B737-300,4C,2160
+Boeing,B737-400,4C,2550
+Boeing,B737-500,4C,2470
+Fokker,B737-800,4C,2090
+Fokker,B737-900,4C,2240
+Fokker,F100,4C,1840
+Gulfstream Aero.,G V,4C,1863
+Douglas,DC9-10,4C,1975
+Douglas,DC9-15,4C,1990
+Douglas,DC9-20,4C,1560
+Douglas,DC9-30,4C,2134
+Douglas,DC9-40,4C,2091
+Douglas,DC9-50,4C,2451
+McDonnell Douglas,MD81,4C,2290
+McDonnell Douglas,MD82,4C,2280
+McDonnell Douglas,MD83,4C,2470
+McDonnell Douglas,MD87,4C,2260
+McDonnell Douglas,MD88,4C,2470
+Airbus,A300 B4,4D,2605
+Airbus,A300-600,4D,2332
+Airbus,A310,4D,1845
+Boeing,B707-300,4D,3088
+Boeing,B707-400,4D,3277
+Boeing,B720,4D,1981
+Boeing,B757-200,4D,1980
+Boeing,B757-300,4D,2400
+Boeing,B767-200,4D,1981
+Boeing,B767-200ER,4D,2540
+Boeing,B767-300ER,4D,3130
+Canadair,CL44D-4,4D,2240
+Ilyushin,18V,4D,1980
+Ilyushin,62M,4D,3280
+Lockheed,L100-20,4D,1829
+Lockheed,L100-30,4D,1829
+Lockheed,L188,4D,2066
+Lockheed,L1011-1,4D,2426
+Lockheed,L1011-100/200,4D,2469
+Lockheed,L1011-500,4D,2844
+Douglas,DC8-61,4D,3048
+Douglas,DC8-62,4D,3100
+Douglas,DC8-63,4D,3179
+Douglas,DC8-71,4D,2770
+Douglas,DC8-72,4D,2980
+McDonnell Douglas,DC8-73,4D,3050
+McDonnell Douglas,DC10-10,4D,3200
+McDonnell Douglas,DC10-30,4D,3170
+McDonnell Douglas,DC10-40,4D,3124
+Tupolev,TU134A,4D,2400
+Tupolev,TU154,4D,2160
+Boeing,B747-100,4E,3060
+Boeing,B747-200,4E,3150
+Boeing,B747-300,4E,3292
+Boeing,B747-400,4E,2890
+Boeing,B747-SR,4E,1860
+Boeing,B747-SP,4E,2710
+Boeing,B777-200,4E,2390
+Boeing,B777-200ER,4E,3110
+Boeing,B777-300,4E,3140
+Boeing,B777-300ER,4E,3120
+McDonnell Douglas,MD11,4E,3130
+Airbus,A380,4F,3350
